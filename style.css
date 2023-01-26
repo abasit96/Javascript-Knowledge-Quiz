@@ -1,0 +1,28 @@
+.hide {
+    display: none;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+header {
+    background-color: grey;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+}
+
+body {
+    width: 700px;
+    margin: 10;
+    align-items: center;
+}
+body {
+    text-align: center;
+    justify-content: center;
+    background-color: aqua;
+}

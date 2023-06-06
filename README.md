@@ -22,8 +22,8 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and my score
 
-##### Screenshot
-![Screenshot](Javascript Quiz .png)
+## Screenshots
+![Screenshot](./Assets/Screenshot%202023-06-05%20at%205.17.25%20PM.png)
 
 ###### Deployment Page
 https://abasit96.github.io/Javascript-Knowledge-Quiz/
